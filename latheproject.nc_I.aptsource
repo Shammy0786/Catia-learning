@@ -1,0 +1,250 @@
+$$ -----------------------------------------------------------------
+$$     Generated on Sunday, March 21, 2021 4:26:15 PM
+$$     CATIA APT VERSION 1.0
+$$ -----------------------------------------------------------------
+CHANNEL,
+$$ Manufacturing Program.1
+$$  Part Operation.1
+$$ Manufacturing Program.1
+$$     0.000000     1.000000     0.000000     0.000000
+$$    -1.000000     0.000000     0.000000     0.000000
+$$     0.000000     0.000000     1.000000   111.586075
+CATMAT/    0.000000,    0.000000,  111.586075,    0.000000,    1.000000$
+,    0.000000,   -1.000000,    0.000000,    0.000000,    0.000000,    0$
+.000000,    1.000000,Manufacturing Program.1
+PARTNO/Manufacturing Program.1
+$$ PPRINT/PP WORD TABLE:IMS.pptable
+$$ IMS PPTABLE 20 May 2009
+$$ PART_OPE/Part Operation.1
+$$ PROGRAM/Manufacturing Program.1
+$$ MACHINE/Horizontal Lathe Machine.1
+$$ CATPROCESS/lathe operation.CATProcess
+$$ CATPRODUCT/Part1
+$$ MAXRPM/
+$$ OPERATION NAME : Turning Tool Change.1
+$$  Start generation of : Turning Tool Change.1
+$$ TOOLCHANGEBEGINNING
+CUTTER/   10.000000
+TPRINT/T1 External Insert-Holder
+LOADTL/1,ADJUST,9,TURN
+$$ COOLNT/
+$$ TOOLCHANGEEND
+$$  End of generation of : Turning Tool Change.1
+OP_NAME/Rough Turning.1
+START_OP/LATHE
+SPINDL_NAME/NAME,,NUMB,
+$$ OPERATION NAME : Rough Turning.1
+$$  Start generation of : Rough Turning.1
+SWITCH/9,9
+FEDRAT/    0.3000,MMPR
+SPINDL/   70.0000,RPM,CCLW
+GOTO  /   62.19149,    0.00000,    7.00000
+GOTO  /   62.19149,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   62.19149,    0.00000, -105.58607
+FEDRAT/    0.8000,MMPR
+GOTO  /   62.40362,    0.00000, -105.37394
+RAPID
+GOTO  /   62.40362,    0.00000,    7.00000
+RAPID
+GOTO  /   59.38297,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   59.38297,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   59.38297,    0.00000, -105.58607
+FEDRAT/    0.8000,MMPR
+GOTO  /   59.59510,    0.00000, -105.37394
+RAPID
+GOTO  /   59.59510,    0.00000,    7.00000
+RAPID
+GOTO  /   56.57446,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   56.57446,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   56.57446,    0.00000,  -75.86315
+FEDRAT/    0.8000,MMPR
+GOTO  /   56.78659,    0.00000,  -75.65102
+RAPID
+GOTO  /   56.78659,    0.00000,    7.00000
+RAPID
+GOTO  /   53.76594,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   53.76594,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   53.76594,    0.00000,  -67.62272
+FEDRAT/    0.8000,MMPR
+GOTO  /   53.97808,    0.00000,  -67.41059
+RAPID
+GOTO  /   53.97808,    0.00000,    7.00000
+RAPID
+GOTO  /   50.95743,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   50.95743,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   50.95743,    0.00000,  -62.33953
+FEDRAT/    0.8000,MMPR
+GOTO  /   51.16956,    0.00000,  -62.12739
+RAPID
+GOTO  /   51.16956,    0.00000,    7.00000
+RAPID
+GOTO  /   48.14892,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   48.14892,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   48.14892,    0.00000,  -58.29883
+FEDRAT/    0.8000,MMPR
+GOTO  /   48.36105,    0.00000,  -58.08670
+RAPID
+GOTO  /   48.36105,    0.00000,    7.00000
+RAPID
+GOTO  /   45.34040,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   45.34040,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   45.34040,    0.00000,  -54.74855
+FEDRAT/    0.8000,MMPR
+GOTO  /   45.55253,    0.00000,  -54.53642
+RAPID
+GOTO  /   45.55253,    0.00000,    7.00000
+RAPID
+GOTO  /   42.53189,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   42.53189,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   42.53189,    0.00000,  -51.20103
+FEDRAT/    0.8000,MMPR
+GOTO  /   42.74402,    0.00000,  -50.98890
+RAPID
+GOTO  /   42.74402,    0.00000,    7.00000
+RAPID
+GOTO  /   39.72337,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   39.72337,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   39.72337,    0.00000,  -47.65351
+FEDRAT/    0.8000,MMPR
+GOTO  /   39.93551,    0.00000,  -47.44138
+RAPID
+GOTO  /   39.93551,    0.00000,    7.00000
+RAPID
+GOTO  /   36.91486,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   36.91486,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   36.91486,    0.00000,  -44.10600
+FEDRAT/    0.8000,MMPR
+GOTO  /   37.12699,    0.00000,  -43.89386
+RAPID
+GOTO  /   37.12699,    0.00000,    7.00000
+RAPID
+GOTO  /   34.10635,    0.00000,    7.00000
+FEDRAT/    0.3000,MMPR
+GOTO  /   34.10635,    0.00000,    5.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   34.10635,    0.00000,  -37.02747
+FEDRAT/    0.8000,MMPR
+GOTO  /   34.31848,    0.00000,  -36.81534
+$$  End of generation of : Rough Turning.1
+END_OP/LATHE
+OP_NAME/Rough Turning.2
+START_OP/LATHE
+SPINDL_NAME/NAME,,NUMB,
+$$ OPERATION NAME : Rough Turning.2
+$$  Start generation of : Rough Turning.2
+FEDRAT/    0.3000,MMPR
+SPINDL/   70.0000,RPM,CCLW
+GOTO  /   67.00000,    0.00000,    3.00000
+GOTO  /   65.00000,    0.00000,    3.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /    0.00000,    0.00000,    3.00000
+FEDRAT/    0.8000,MMPR
+GOTO  /    0.21213,    0.00000,    3.21213
+$$  End of generation of : Rough Turning.2
+END_OP/LATHE
+$$ OPERATION NAME : Turning Tool Change.2
+$$  Start generation of : Turning Tool Change.2
+$$ TOOLCHANGEBEGINNING
+CUTTER/    0.400000
+TPRINT/T3 External Groove Insert-Holder
+LOADTL/1,ADJUST,9,TURN
+$$ COOLNT/
+$$ TOOLCHANGEEND
+$$  End of generation of : Turning Tool Change.2
+OP_NAME/Groove Turning.1
+START_OP/LATHE
+SPINDL_NAME/NAME,,NUMB,
+$$ OPERATION NAME : Groove Turning.1
+$$  Start generation of : Groove Turning.1
+SWITCH/9,9
+FEDRAT/    0.3000,MMPR
+SPINDL/   70.0000,RPM,CCLW
+GOTO  /   62.20000,    0.00000,  -19.01534
+GOTO  /   60.20000,    0.00000,  -19.01534
+GOTO  /   20.40144,    0.00000,  -19.01534
+FEDRAT/    0.8000,MMPR
+GOTO  /   62.20000,    0.00000,  -19.01534
+RAPID
+GOTO  /   62.20000,    0.00000,  -21.25969
+FEDRAT/    0.3000,MMPR
+GOTO  /   60.20000,    0.00000,  -21.25969
+FEDRAT/    0.4000,MMPR
+GOTO  /   20.40144,    0.00000,  -21.25969
+FEDRAT/    0.8000,MMPR
+GOTO  /   20.61357,    0.00000,  -21.04756
+RAPID
+GOTO  /   62.20000,    0.00000,  -21.04756
+RAPID
+GOTO  /   62.20000,    0.00000,  -23.50404
+FEDRAT/    0.3000,MMPR
+GOTO  /   60.20000,    0.00000,  -23.50404
+FEDRAT/    0.4000,MMPR
+GOTO  /   20.40144,    0.00000,  -23.50404
+FEDRAT/    0.8000,MMPR
+GOTO  /   20.61357,    0.00000,  -23.29191
+RAPID
+GOTO  /   62.20000,    0.00000,  -23.29191
+$$  End of generation of : Groove Turning.1
+END_OP/LATHE
+$$ OPERATION NAME : Turning Tool Change.3
+$$  Start generation of : Turning Tool Change.3
+$$ TOOLCHANGEBEGINNING
+CUTTER/    1.000000
+TPRINT/T4 External Insert-Holder
+LOADTL/1,ADJUST,9,TURN
+$$ COOLNT/
+$$ TOOLCHANGEEND
+$$  End of generation of : Turning Tool Change.3
+OP_NAME/Profile Finish Turning.1
+START_OP/LATHE
+SPINDL_NAME/NAME,,NUMB,
+$$ OPERATION NAME : Profile Finish Turning.1
+$$  Start generation of : Profile Finish Turning.1
+SWITCH/9,9
+FEDRAT/    0.3000,MMPR
+SPINDL/   70.0000,RPM,CCLW
+GOTO  /   28.60635,    0.00000,   -1.00000
+GOTO  /   28.60635,    0.00000,   -3.00000
+FEDRAT/    0.4000,MMPR
+GOTO  /   28.60635,    0.00000,  -37.02747
+INTOL /    0.02500
+OUTTOL/    0.00000
+AUTOPS
+INDIRV/    0.00000,    0.00000,   -1.00000
+TLON,GOFWD/      (CIRCLE/     44.25512,      0.00000,    -37.02747,$
+      15.64877),ON,(LINE/     44.25512,      0.00000,    -37.02747,$
+                              31.98587,      0.00000,    -46.74084)
+GOTO  /   43.59167,    0.00000,  -61.40048
+AUTOPS
+INDIRV/    0.62071,    0.00000,   -0.78404
+TLON,GOFWD/      (CIRCLE/     11.89984,      0.00000,    -86.49040,$
+      40.42123),ON,(LINE/     11.89984,      0.00000,    -86.49040,$
+                              52.32108,      0.00000,    -86.49040)
+GOTO  /   52.32108,    0.00000, -111.58607
+FEDRAT/    0.8000,MMPR
+GOTO  /   52.53321,    0.00000, -111.79821
+$$  End of generation of : Profile Finish Turning.1
+END_OP/LATHE
+$$ SPINDL/OFF
+$$ REWIND/0
+$$ END
+
